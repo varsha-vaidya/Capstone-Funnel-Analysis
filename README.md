@@ -34,5 +34,8 @@
 - Optimize pricing strategies for delivery and packing charges.
 - Conduct A/B testing to evaluate and implement impactful changes.
 
+### Conclusion - 
+- This project enhanced my ability to work with real-world datasets, derive actionable insights and contribute to solving business challenges in a measurable and impactful way.
+
 
 
